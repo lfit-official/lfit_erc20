@@ -1,1 +1,1 @@
-# lfit_bep20
+# lfit_erc20
